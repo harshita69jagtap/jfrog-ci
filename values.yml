@@ -4,7 +4,7 @@ GitHub:
   branch: master
 Artifactory:
   intgName: myjfrog_artifactory_intg
-  artRepo: docker_local
+  artRepo: docker-local
 app:
-  dockerImageName: punchhdev.jfrog.io/docker_local/myjfrog_built_image 
+  dockerImageName: punchhdev.jfrog.io/docker-local/myjfrog_built_image 
   dockerFileLocation: .
