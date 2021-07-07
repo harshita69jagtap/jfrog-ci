@@ -1,4 +1,4 @@
-GitHub:
+Github:
   gitProvider: pipeline_github_intg_gitrepo
   path: harshita69jagtap/jfrog-ci 
   branch: master
