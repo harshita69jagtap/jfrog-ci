@@ -1,0 +1,10 @@
+GitHub:
+  gitProvider: pipeline_github_intg_gitrepo
+  path: harshita69jagtap/jfrog-ci 
+  branch: master
+Artifactory:
+  intgName: myjfrog_artifactory_intg
+  artRepo: docker_local
+app:
+  dockerImageName: punchhdev.jfrog.io/docker_local/myjfrog_built_image 
+  dockerFileLocation: .
